@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AndLD
+- 👀 I’m interested in Node.js (Express), React, React Native (Expo)
+- 🌱 I’m currently learning React Native
+- 📫 How to reach me: nil10035@gmail.com
