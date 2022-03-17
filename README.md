@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AndLD
-- 👀 I’m interested in Node.js (Express), React, React Native (Expo)
-- 🌱 I’m currently learning React Native
+- 👀 I use Node.js (Express), React
+- 🌱 See my CV site: https://github.com/AndLD/cv-site
 - 📫 How to reach me: nil10035@gmail.com
