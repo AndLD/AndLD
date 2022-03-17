@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AndLD
-- 👀 I use Node.js (Express), React
+- ⚔️ Fullstack Javascript Developer
 - 🌱 See my CV site: https://github.com/AndLD/cv-site
 - 📫 How to reach me: nil10035@gmail.com
