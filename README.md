@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @AndLD
+- 👋 Hi, I’m Andrii Larionov
 - 🔥 Fullstack Javascript Developer
-- 🌱 See my CV site: https://github.com/AndLD/cv-site
-- 📫 How to reach me: nil10035@gmail.com
+- 📫 How to reach me: andrey.larionov.me@gmail.com
