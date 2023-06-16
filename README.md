@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Andrii Larionov
-- 🔥 Fullstack Javascript Developer
+- 🔥 Fullstack Javascript Engineer
 - 📫 How to reach me: andrey.larionov.me@gmail.com
